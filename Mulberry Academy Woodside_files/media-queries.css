@@ -1,0 +1,730 @@
+@media only screen and (max-width: 1643px) {
+
+  li#wp-admin-bar-theme-helper, li#wp-admin-bar-ab-layerslider, li#wp-admin-bar-SG_CachePress_Supercacher_Purge, li#wp-admin-bar-enable-jquery-migrate-helper, li#wp-admin-bar-tribe-events, li#wp-admin-bar-rank-math, li#wp-admin-bar-avia, li#wp-admin-bar-customize, li#wp-admin-bar-updates, li#wp-admin-bar-comments {
+      display: none;
+  }
+
+}
+
+@media only screen and (max-width: 1600px) {
+  nav.main_menu {
+    display: block !important;
+  }
+  #avia-menu .menu-item {
+    display: none;
+  }
+  .av-burger-menu-main.menu-item-avia-special {
+    display: block;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+.right_3col_padding, .left_3col_padding, .flex_column.av_one_full.flex_column_div, .flex_column.av_one_half.flex_column_div, .flex_column.av_one_third.flex_column_div{
+  padding-left: 60px!important;
+  padding-right: 60px !important;
+  padding-top: 30px!important;
+  padding-bottom: 30px !important;
+  margin:0!important;
+}
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+.main_color article {
+    border-right: 0px solid #5D3788!important;
+    width: 100%!important;
+}
+}
+
+@media only screen and (max-width: 576px) {
+
+  br.mob-no-break {
+      display: none!important;
+  }
+  p.intro-para {
+    font-size: 23px!important;
+}
+.avia-button.avia-size-x-large, .avia-button.avia-size-large, .avia-button-wrap.avia-button-left{
+  width:100%;
+}
+#top #header_meta a, #top #header_meta li, #top #header_meta .phone-info{
+  font-size:14px;
+}
+.ls-fullwidth .ls-media-unmute-active .ls-media-unmute-bg, .ls-fullwidth .ls-media-unmute .ls-icon-muted, .ls-fullwidth .ls-media-unmute .ls-icon-unmuted{
+  display: none;
+}
+.responsive #top #wrap_all .slide-entry{
+  margin-left:0!important;
+  margin-bottom:1rem!important;
+}
+.page-id-873 .avia-content-slider .slide-entry-wrap{
+  margin-bottom:0!important;
+}
+#top .scroll-down-link {
+  font-size: 80px!important;
+}
+.home article img, .page-id-873 article img {
+    width: 100%;
+    height: 159px!important;
+    object-fit: cover;
+}
+.main_color article:last-of-type{
+  margin-left:0!important;
+}
+.home .main_color article {
+    margin-bottom: 2rem!important;
+}
+ul#av-burger-menu-ul {
+  display: block!important;
+  padding-top: 160px!important;
+}
+  ul.sub-menu {
+  margin-left: -4px!important;
+}
+.html_av-overlay-side #top #wrap_all .av-burger-overlay li{
+	padding:0px 10px!important;
+}
+.html_av-overlay-side #top #wrap_all .av-burger-overlay li a{
+	padding:5px 0px!important;
+}
+.html_av-overlay-side #top #wrap_all .av-burger-overlay li a{
+	color:#fff!important;
+}
+.html_av-overlay-side #top #wrap_all .av-burger-overlay li a:hover{
+	background:none!important;
+}
+
+  html #wpadminbar, .responsive #top #wrap_all #header{
+    position: fixed!important;
+  }
+body.home div#main {
+      margin-top: 0!important;
+  }
+  html.responsive #top #main{
+    padding-top: 7rem!important;
+  }
+.main_color article {
+    border-right: 0px solid #5D3788!important;
+    width: 100%!important;
+    padding:0!important;
+}
+.container-fluid.p-0.page-header {
+    padding: 2rem 0;
+    background-image:none!important;
+}
+span.avia-bullet {
+    display: none!important;
+}
+.responsive #top .logo {
+    width: 50%!important;
+}
+div#hp-feature .flex_cell {
+    padding-top: 8%!important;
+    padding-bottom: 8%!important;
+}
+.speech-mark img {
+    width: 40%;
+}
+body .hp-icon-grid div.flex_cell {
+    border-left: 0!important;
+    border-bottom: 1px solid #fff!important;
+}
+#footer .container {
+    width: 80% !important;
+    max-width: 80% !important;
+}
+.container-fluid.p-0.page-header h1 {
+    font-size: 2rem;
+}
+#top .no_margin.av_one_third {
+  width:100vw!important;
+}
+.sip-sef-img{
+  min-height:400px;
+  width:auto;
+  object-fit: cover;
+}
+#top .scroll-down-link {
+    bottom: -26px!important;
+    margin: 0px 0 0 -22px!important;
+}
+/*
+****************************************
+START TABLE STYLES
+****************************************
+*/
+#table-curriculum, #table-homework, #table-code-of-conduct, #table-attendance, #table-equipment, #table-environment , #table-current-times  {
+    margin-bottom: 2rem;
+}
+#table-curriculum td:first-child, #table-homework td:first-child, #table-code-of-conduct td:first-child, #table-attendance td:first-child, #table-equipment td:first-child, #table-environment td:first-child{
+	width:100%;
+}
+.responsive .avia_responsive_table .avia-data-table td:before {
+  display: block;
+  font-style: normal!important;
+  font-size: 17px!important;
+  font-weight: 700!important;
+}
+/*
+****************************************
+END TABLE STYLES
+****************************************
+*/
+img.flogo1 {
+    width: 100%;
+}
+img.flogo2 {
+    width: 60%;
+}
+img.flogo3 {
+    width: 70%;
+}
+img.flogo4 {
+    width: 100%;
+}
+section#media_image-2 {
+    width: 70%;
+}
+.fl-one, .fl-two, .fl-three, .fl-four {
+    width:50%;
+    margin: 0 auto;
+}
+#footer p {
+    font-size: 14px!important;
+    line-height: 1.4em !important;
+    font-weight: 400!important;
+    margin: 0.9em 0!important;
+}
+.contact2 {
+    align-items: flex-start;
+    flex-direction: column;
+}
+p.ofstead-logo img {
+  width: 100%;
+  margin-left: 0;
+}
+
+.page-id-15 .avia-image-container.avia-align-center .avia-image-container-inner {
+	height: 80px;
+text-align: left;
+vertical-align: top !important;
+}
+
+.page-id-15 .av-image-caption-overlay-center {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 25%;
+  width: 100%;
+  padding: 0 1rem!important;
+}
+
+.page-id-15 .av-image-caption-overlay-center p {
+  font-size:17px!important;
+  line-height:100%!important;
+}
+
+#top .all_colors p img {
+  height: 60px;
+  width: 130px;
+  margin-top: -10px !important;
+  display: block;
+}
+
+.ofstead-logo {
+  width: 60px;
+  height: auto;
+}
+.av-single-event-content {
+    padding: 0 1.5rem;
+}
+ul.tribe-events-sub-nav {
+    padding: 0 1.5rem;
+}
+.back-to-news {
+    display: inline-block;
+    width: 100%;
+    margin-top: 1rem;
+}
+.av-share-box ul li {
+    margin: 0!important;
+    padding: 0!important;
+}
+.av-share-box ul li a {
+    font-size: 20px!important;
+    font-size: 2rem!important;
+}
+}
+
+/* ----------- iPad 1, 2, Mini and Air ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (-webkit-min-device-pixel-ratio: 1) {
+    .container-fluid.p-0.page-header {
+        background-image:none!important;
+    }
+
+    .html_header_top.html_header_sticky #header {
+    position: fixed!important;
+}
+.html_header_top.html_header_sticky #top #wrap_all #main {
+    padding-top: 146px!important;
+}
+div .avia-table {
+    margin: 30px 0!important;
+}
+td {
+    word-break: break-word!important;
+}
+#table-curriculum td:first-child, #table-homework td:first-child, #table-code-of-conduct td:first-child, #table-attendance td:first-child, #table-equipment td:first-child, #table-environment td:first-child {
+    width: 25%;
+}
+    .ls-fullwidth .ls-media-unmute-active .ls-media-unmute-bg, .ls-fullwidth .ls-media-unmute .ls-icon-muted, .ls-fullwidth .ls-media-unmute .ls-icon-unmuted{
+      display: none;
+    }
+    .av-image-caption-overlay-center {
+        font-size: 14px!important;
+    }
+    .av-image-caption-overlay-center p {
+    font-size: 14px!important;
+}
+  ul#av-burger-menu-ul {
+    display: block!important;
+    padding-top: 160px!important;
+  }
+    ul.sub-menu {
+    margin-left: 10px!important;
+  }
+  .html_av-overlay-side #top #wrap_all .av-burger-overlay li{
+  	padding:0px 10px!important;
+  }
+  .html_av-overlay-side #top #wrap_all .av-burger-overlay li a{
+  	padding:5px 0px!important;
+  }
+  .html_av-overlay-side #top #wrap_all .av-burger-overlay li a{
+  	color:#fff!important;
+  }
+  .html_av-overlay-side #top #wrap_all .av-burger-overlay li a:hover{
+  	background:none!important;
+  }
+  span.avia-bullet {
+    display: none!important;
+  }
+  html .main_color article {
+      margin-left: 0!important;
+  }
+  .contact2 {
+    align-items: flex-start;
+    flex-direction: column;
+}
+p.ofstead-logo img {
+    width: 30%;
+    margin-left: 0;
+}
+section#media_image-2 {
+    width: 65%;
+}
+.footer-logos .fl-one {
+    width: 20%;
+}
+.footer-logos .fl-two {
+    width: 6%;
+}
+.footer-logos .fl-three {
+    width: 8%;
+}
+.footer-logos .fl-four {
+    width: 18%;
+}
+.page-id-873 article img {
+    height: 365px!important;
+}
+.speech-mark img {
+    width: 50%;
+
+  }
+  div#ethos-grid,
+  div#school-uniform-grid,
+  div#eal-grid,
+  div#extended-learning-grid,
+  div#club-society-grid,
+  div#we-grid-1,
+  div#we-grid-2,
+  div#school-menu-grid,
+  div#safeguarding-grid,
+  div#trailblazers-grid,
+  div#funding-statements-grid,
+  div#open-events-grid,
+  div#staff-benefits-grid,
+  div#first-lady-grid,
+  div#first-lady-grid-1,
+  div#first-lady-grid-2,
+  div#first-lady-grid-3,
+  div#stem-grid,
+  div#contact-grid
+   {
+  display: flex;
+  flex-direction: column;
+  }
+  div#ethos-grid div.flex_cell.av_one_third,
+  div#school-uniform-grid div.flex_cell.av_two_third,
+  div#school-uniform-grid div.flex_cell.av_one_third,
+  div#eal-grid div.flex_cell.av_one_half,
+  div#extended-learning-grid div.flex_cell.av_one_half,
+  div#club-society-grid div.flex_cell.av_one_half,
+  div#we-grid-1 div.flex_cell.av_one_half,
+  div#we-grid-2 div.flex_cell.av_one_half,
+  div#school-menu-grid div.flex_cell.av_one_third,
+  div#safeguarding-grid div.flex_cell.av_one_half,
+  div#trailblazers-grid div.flex_cell.av_one_half,
+  html #top div#funding-statements-grid div.av_one_third,
+  div#funding-statements-grid div.av_two_third,
+  div#open-events-grid div.flex_cell.av_one_half,
+  html #top div#staff-benefits-grid div.av_one_third,
+  div#staff-benefits-grid div.av_two_third,
+  div#first-lady-grid div.flex_cell.av_one_half,
+  html #top div#first-lady-grid-1 div.av_one_third,
+  html #top div#first-lady-grid-2 div.av_one_third,
+  html #top div#first-lady-grid-3 div.av_one_third,
+  html #top div#stem-grid div.av_one_third,
+  html #top div#stem-grid div.av_two_third,
+  html #top div#contact-grid .av_one_third
+   {
+  width: 100%!important;
+}
+
+div#students-details-grid .av_three_fifth {
+    width: 100%;
+    margin: 0;
+}
+div#media-gallery-title .intro-para {
+    margin-bottom: 0!important;
+}
+
+div#local-governing-body-grid .flex_cell_inner {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+div#local-governing-body-grid div.flex_column.av_one_third {
+    display: flex;
+    width: 100%;
+    margin:0!important;
+    padding: 0!important;
+}
+div#local-governing-body-grid .avia-button-wrap a {
+    width: 100%;
+    margin: 0 0 1rem 0!important;
+}
+div#local-governing-body-grid .flex_cell {
+    padding: 30px!important;
+}
+.av-single-event-content {
+    padding: 0 1.5rem;
+}
+ul.tribe-events-sub-nav {
+    padding: 0 1.5rem;
+}
+  }
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: portrait)
+  and (-webkit-min-device-pixel-ratio: 1) {
+    div#welcome, div#hp-feature, div#newsevents, div#homepurpleblock {
+        display: flex;
+        flex-direction: column;
+    }
+    div#welcome .flex_cell, div#hp-feature .flex_cell, div#newsevents .flex_cell, html #top .no_margin.av_one_third {
+        width: 100%!important;
+    }
+    html .home article img {
+        width: 100%;
+        height: 402px!important;
+        object-fit: cover;
+    }
+    html #top .no_margin.av_one_third{
+      border-bottom: 1px solid #fff!important;
+    }
+    .quote {
+    padding-top: 0!important;
+    }
+    #club-society-grid div.flex_cell_inner div.flex_column.av_one_third {
+        padding-left: 0!important;
+        padding-right: 0 !important;
+    }
+    div#watch-title {
+    padding:  4rem 0 0 0!important;
+    }
+  }
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: landscape)
+  and (-webkit-min-device-pixel-ratio: 1) {
+    .quote, .quote-image {
+        padding: 20px!important;
+    }
+    #club-society-grid div.flex_cell_inner div.flex_column.av_one_third {
+        padding-left: 15px!important;
+        padding-right: 15px !important;
+    }
+    #mulberry-learn-grid .mulberry-learn-col-2 .flex_column {
+    padding: 30px!important;
+}
+  }
+
+/* ----------- iPad 3, 4 and Pro 9.7" ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+  }
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: portrait)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: landscape)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* ----------- iPad Pro 10.5" ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 834px)
+  and (max-device-width: 1112px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+  }
+
+/* Portrait */
+/* Declare the same value for min- and max-width to avoid colliding with desktops */
+@media only screen
+  and (min-device-width: 834px)
+  and (max-device-width: 834px)
+  and (orientation: portrait)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+  }
+
+/* Landscape */
+/* Declare the same value for min- and max-width to avoid colliding with desktops */
+@media only screen
+  and (min-device-width: 1112px)
+  and (max-device-width: 1112px)
+  and (orientation: landscape)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    html .home article img {
+        width: 100%;
+        height: 132px!important;
+        object-fit: cover;
+    }
+    html #top #av-burger-menu-ul a {
+    color: #fff!important;
+    background: none!important;
+    background-color: transparent!important;
+    }
+    html #top #av-burger-menu-ul a:hover{
+    background: none!important;
+    background-color: transparent!important;
+    }
+    span.avia-bullet {
+    display: none!important;
+    }
+    div#ethos-grid,
+    div#school-uniform-grid,
+    div#eal-grid,
+    div#extended-learning-grid,
+    div#club-society-grid,
+    div#we-grid-1,
+    div#we-grid-2,
+    div#school-menu-grid,
+    div#safeguarding-grid,
+    div#trailblazers-grid,
+    div#funding-statements-grid,
+    div#open-events-grid,
+    div#staff-benefits-grid,
+    div#first-lady-grid,
+    div#first-lady-grid-1,
+    div#first-lady-grid-2,
+    div#first-lady-grid-3,
+    div#stem-grid,
+    div#contact-grid
+     {
+    display: flex;
+    flex-direction: column;
+    }
+    div#ethos-grid div.flex_cell.av_one_third,
+    div#school-uniform-grid div.flex_cell.av_two_third,
+    div#school-uniform-grid div.flex_cell.av_one_third,
+    div#eal-grid div.flex_cell.av_one_half,
+    div#extended-learning-grid div.flex_cell.av_one_half,
+    div#club-society-grid div.flex_cell.av_one_half,
+    div#we-grid-1 div.flex_cell.av_one_half,
+    div#we-grid-2 div.flex_cell.av_one_half,
+    div#school-menu-grid div.flex_cell.av_one_third,
+    div#safeguarding-grid div.flex_cell.av_one_half,
+    div#trailblazers-grid div.flex_cell.av_one_half,
+    html #top div#funding-statements-grid div.av_one_third,
+    div#funding-statements-grid div.av_two_third,
+    div#open-events-grid div.flex_cell.av_one_half,
+    html #top div#staff-benefits-grid div.av_one_third,
+    div#staff-benefits-grid div.av_two_third,
+    div#first-lady-grid div.flex_cell.av_one_half,
+    html #top div#first-lady-grid-1 div.av_one_third,
+    html #top div#first-lady-grid-2 div.av_one_third,
+    html #top div#first-lady-grid-3 div.av_one_third,
+    html #top div#stem-grid div.av_one_third,
+    html #top div#stem-grid div.av_two_third,
+    html #top div#contact-grid .av_one_third
+     {
+    width: 100%!important;
+  }
+
+  }
+
+/* ----------- iPad Pro 12.9" ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 1024px)
+  and (max-device-width: 1366px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+  }
+
+/* Portrait */
+/* Declare the same value for min- and max-width to avoid colliding with desktops */
+@media only screen
+  and (min-device-width: 1024px)
+  and (max-device-width: 1024px)
+  and (orientation: portrait)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    html .home article img {
+        width: 100%;
+        height: 547px!important;
+        object-fit: cover;
+    }
+  }
+/* Landscape */
+/* Declare the same value for min- and max-width to avoid colliding with desktops */
+@media only screen
+  and (min-device-width: 1366px)
+  and (max-device-width: 1366px)
+  and (orientation: landscape)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+    html #top #av-burger-menu-ul a {
+    color: #fff!important;
+    background: none!important;
+    background-color: transparent!important;
+    }
+    html #top #av-burger-menu-ul a:hover{
+    background: none!important;
+    background-color: transparent!important;
+    }
+    span.avia-bullet {
+    display: none!important;
+    }
+
+    html .home article img {
+        width: 100%;
+        height: 167px!important;
+        object-fit: cover;
+    }
+    div#ethos-grid,
+    div#school-uniform-grid,
+    div#eal-grid,
+    div#extended-learning-grid,
+    div#club-society-grid,
+    div#we-grid-1,
+    div#we-grid-2,
+    div#school-menu-grid,
+    div#safeguarding-grid,
+    div#trailblazers-grid,
+    div#funding-statements-grid,
+    div#open-events-grid,
+    div#staff-benefits-grid,
+    div#first-lady-grid,
+    div#first-lady-grid-1,
+    div#first-lady-grid-2,
+    div#first-lady-grid-3,
+    div#stem-grid,
+    div#contact-grid
+     {
+    display: flex;
+    flex-direction: column;
+    }
+    div#ethos-grid div.flex_cell.av_one_third,
+    div#school-uniform-grid div.flex_cell.av_two_third,
+    div#school-uniform-grid div.flex_cell.av_one_third,
+    div#eal-grid div.flex_cell.av_one_half,
+    div#extended-learning-grid div.flex_cell.av_one_half,
+    div#club-society-grid div.flex_cell.av_one_half,
+    div#we-grid-1 div.flex_cell.av_one_half,
+    div#we-grid-2 div.flex_cell.av_one_half,
+    div#school-menu-grid div.flex_cell.av_one_third,
+    div#safeguarding-grid div.flex_cell.av_one_half,
+    div#trailblazers-grid div.flex_cell.av_one_half,
+    html #top div#funding-statements-grid div.av_one_third,
+    div#funding-statements-grid div.av_two_third,
+    div#open-events-grid div.flex_cell.av_one_half,
+    html #top div#staff-benefits-grid div.av_one_third,
+    div#staff-benefits-grid div.av_two_third,
+    div#first-lady-grid div.flex_cell.av_one_half,
+    html #top div#first-lady-grid-1 div.av_one_third,
+    html #top div#first-lady-grid-2 div.av_one_third,
+    html #top div#first-lady-grid-3 div.av_one_third,
+    html #top div#stem-grid div.av_one_third,
+    html #top div#stem-grid div.av_two_third,
+    html #top div#contact-grid .av_one_third
+     {
+    width: 100%!important;
+  }
+  }
+
+/*
+     FILE ARCHIVED ON 15:47:05 May 13, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:02:39 Aug 25, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.575
+  exclusion.robots: 0.02
+  exclusion.robots.policy: 0.008
+  esindex: 0.011
+  cdx.remote: 38.449
+  LoadShardBlock: 73.523 (3)
+  PetaboxLoader3.datanode: 188.377 (5)
+  load_resource: 706.423
+  PetaboxLoader3.resolve: 463.444
+  loaddict: 146.091
+*/
